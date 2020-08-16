@@ -1,0 +1,14 @@
+{
+  "name": "knockout-subsequent-variable-declarations",
+  "private": "true",
+  "scripts": {
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "knockout": "3.5.1"
+  },
+  "devDependencies": {
+    "@types/devexpress-web": "192.3.0",
+    "typescript": "3.9.7"
+  }
+}
